@@ -24,6 +24,7 @@ import {SocialImagesGrid} from './SocialImagesGrid';
 import {TabbedTilesSlider} from './TabbedTilesSlider';
 import {TestimonialSlider} from './TestimonialSlider';
 import {TextBlock} from './TextBlock';
+import {ThreeDHero} from './ThreeDHero';
 import {TilesSlider} from './TilesSlider';
 import {TilesStack} from './TilesStack';
 import {Video} from './Video';
@@ -58,6 +59,7 @@ export function registerSections() {
   registerSection(TabbedTilesSlider, {name: 'tabbed-tiles-slider'});
   registerSection(TestimonialSlider, {name: 'testimonial-slider'});
   registerSection(TextBlock, {name: 'text-block'});
+  registerSection(ThreeDHero, {name: 'three-d-hero'});
   registerSection(TilesSlider, {name: 'tiles-slider'});
   registerSection(TilesStack, {name: 'tiles-stack'});
   registerSection(Video, {name: 'video'});

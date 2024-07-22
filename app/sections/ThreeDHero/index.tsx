@@ -1,0 +1,1 @@
+export { ThreeDHero } from "./ThreeDHero";

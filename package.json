@@ -30,6 +30,8 @@
     "@shopify/hydrogen-react": "^2024.4.4",
     "@shopify/mini-oxygen": "^3.0.3",
     "@shopify/remix-oxygen": "^2.0.4",
+    "@splinetool/react-spline": "^4.0.0",
+    "@splinetool/runtime": "^1.9.1",
     "country-region-data": "^3.0.0",
     "crypto-js": "^4.2.0",
     "eventemitter3": "^5.0.1",
